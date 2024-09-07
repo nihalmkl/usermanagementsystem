@@ -1,0 +1,13 @@
+body{
+  background-image: url('/assets/spotlights-background.webp');
+  background-size: cover;
+   
+}
+.login-container {
+  max-width: 400px;
+  margin: auto;
+  margin-top: 150px;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
